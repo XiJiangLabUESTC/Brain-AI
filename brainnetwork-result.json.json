@@ -1,0 +1,72 @@
+{
+    "VentralAttention": {
+        "clustering": 0.4098785715679395,
+        "modularity": 0.04044060285194026,
+        "local_efficiency": 1.0,
+        "average_degree": 7.3175835857805325,
+        "degree_std": 1.0941054102302363,
+        "average_shortest_path": 0.5960798238474503,
+        "global_efficiency": 1.926644477949173,
+        "characteristic_path_length": 0.5960798238474505
+    },
+    "Frontoparietal": {
+        "clustering": 0.43933631115571564,
+        "modularity": 0.03107665280135663,
+        "local_efficiency": 1.0,
+        "average_degree": 4.968041659053392,
+        "degree_std": 0.7298055969428163,
+        "average_shortest_path": 0.510567693003342,
+        "global_efficiency": 2.8251032158694067,
+        "characteristic_path_length": 0.510567693003342
+    },
+    "DorsalAttention": {
+        "clustering": 0.43166857117246005,
+        "modularity": 0.05320785018725585,
+        "local_efficiency": 1.0,
+        "average_degree": 3.8899749305909976,
+        "degree_std": 0.5702008237351058,
+        "average_shortest_path": 0.5642785483987339,
+        "global_efficiency": 2.357007833641136,
+        "characteristic_path_length": 0.564278548398734
+    },
+    "DefaultMode": {
+        "clustering": 0.3386880574640262,
+        "modularity": 0.08560337082818732,
+        "local_efficiency": 1.0,
+        "average_degree": 7.424515693625787,
+        "degree_std": 1.297857573351143,
+        "average_shortest_path": 0.634760754298442,
+        "global_efficiency": 1.9872148373032443,
+        "characteristic_path_length": 0.634760754298442
+    },
+    "Somatomotor": {
+        "clustering": 0.3469376405165366,
+        "modularity": 0.09370028808837241,
+        "local_efficiency": 1.0,
+        "average_degree": 6.093251558906697,
+        "degree_std": 1.299938386512055,
+        "average_shortest_path": 0.6387104204618381,
+        "global_efficiency": 2.1544190500626286,
+        "characteristic_path_length": 0.6387104204618381
+    },
+    "Limbic": {
+        "clustering": 0.193185568498057,
+        "modularity": 0.10693042369726705,
+        "local_efficiency": 0.9902794632056643,
+        "average_degree": 4.196511727943065,
+        "degree_std": 0.819635336232245,
+        "average_shortest_path": 0.8183746888472838,
+        "global_efficiency": 1.2727863716698051,
+        "characteristic_path_length": 0.8183746888472837
+    },
+    "VisualNetwork": {
+        "clustering": 0.307329519529647,
+        "modularity": 0.09138253021916984,
+        "local_efficiency": 1.0,
+        "average_degree": 8.55608121837413,
+        "degree_std": 1.4080898553547236,
+        "average_shortest_path": 0.6825575256394101,
+        "global_efficiency": 1.7207002601895363,
+        "characteristic_path_length": 0.6825575256394097
+    }
+}
