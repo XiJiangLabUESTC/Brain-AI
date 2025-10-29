@@ -53,7 +53,7 @@ Computes graph metrics for brain functional networks.
 - `brainnetwork-result.json`: Graph metrics for 7 group-level brain functional networks
 
 ### 4. Brain-Like Space Analysis (`brain-like_space.ipynb`)
-Constructs the brain-like space and computes brain-like scores.
+Constructs the brain-like space and computes brain-likeness scores.
 
 #### Quick Start:
 Use the provided `model-result.zip` and `brainnetwork-result.json` directories to:
